@@ -1,0 +1,8 @@
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.deps.json
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb

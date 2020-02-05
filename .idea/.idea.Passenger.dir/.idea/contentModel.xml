@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kuba\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kuba\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kuba\Documents\GitHub\Passenger" t="IncludeFlat">
+      <e p="node_modules\generator-aspnet\templates\projects\classlib" t="IncludeRecursive">
+        <e p="Company.ClassLibrary1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\console" t="IncludeRecursive">
+        <e p="Company.ConsoleApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_classlib" t="IncludeRecursive">
+        <e p="Company.ClassLibrary1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_console" t="IncludeRecursive">
+        <e p="Company.ConsoleApplication1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_mstest" t="IncludeRecursive">
+        <e p="Company.TestProject1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_mvcbasic" t="IncludeRecursive">
+        <e p="Company.WebApplication1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_web" t="IncludeRecursive">
+        <e p="Company.WebApplication1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_webapi" t="IncludeRecursive">
+        <e p="Company.WebApplication1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\fsharp_xunit" t="IncludeRecursive">
+        <e p="Company.TestProject1.fsproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\mstest" t="IncludeRecursive">
+        <e p="Company.TestProject1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\mvc" t="IncludeRecursive">
+        <e p="Company.WebApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\mvcbasic" t="IncludeRecursive">
+        <e p="Company.WebApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\nancy" t="IncludeRecursive">
+        <e p="NancyTemplate.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\web" t="IncludeRecursive">
+        <e p="Company.WebApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\webapi" t="IncludeRecursive">
+        <e p="Company.WebApplication1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="node_modules\generator-aspnet\templates\projects\xunit" t="IncludeRecursive">
+        <e p="Company.TestProject1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Passenger.Api" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Passenger.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Passenger.Api.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="Passenger.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Passenger.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Passenger.Core.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Passenger.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Passenger.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Passenger.Infrastructure.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Passenger.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Passenger.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Passenger.Tests.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Passenger.Tests.EndToEnd" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Passenger.Tests.EndToEnd.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Passenger.Tests.EndToEnd.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.deps.json
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csproj.CopyComplete
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.pdb

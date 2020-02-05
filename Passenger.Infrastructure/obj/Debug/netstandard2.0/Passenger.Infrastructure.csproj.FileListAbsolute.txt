@@ -1,0 +1,11 @@
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CopyComplete
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb

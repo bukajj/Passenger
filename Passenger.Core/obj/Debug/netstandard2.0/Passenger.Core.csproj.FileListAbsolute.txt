@@ -1,0 +1,8 @@
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.deps.json
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfoInputs.cache
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfo.cs
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Kuba\Documents\GitHub\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
